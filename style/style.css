@@ -97,3 +97,37 @@ div div> p{
     align-items: center;
     
 }
+
+
+.class6{
+    display: flex;
+    background-color:rgb(242, 242, 236);
+    justify-content: space-around;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.class6-1{
+    padding: 100px 250px;
+    max-width: 50%;
+    text-align: center;
+    
+}
+
+.class6-2{
+    padding-right: 150px;
+}
+
+.class6-1-1
+{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+span{
+    color:crimson ;
+}
