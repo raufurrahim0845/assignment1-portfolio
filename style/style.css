@@ -115,7 +115,8 @@ div div> p{
 }
 
 .class6-2{
-    padding-right: 150px;
+    padding-right: 200px;
+    padding-top: 50px;
 }
 
 .class6-1-1
@@ -130,4 +131,7 @@ div div> p{
 
 span{
     color:crimson ;
+}
+.class6-3{
+    display: block;
 }
