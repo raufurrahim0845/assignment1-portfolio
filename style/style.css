@@ -1,5 +1,37 @@
 
 /* Header css */
+.class9{
+    background-color:bisque ;
+}
+.class9-1{
+    text-align: center;
+    padding: 0 450px;
+}
+
+.class9-2{
+    font-size: 50px;
+}
+
+.class9-3{
+    display: flex;
+    padding: 0 150px;
+    
+}
+
+#image3{
+    background-color:aquamarine;
+    padding-bottom: 26.3px;
+}
+
+
+.mar1{
+    margin: 80px;
+}
+
+
+
+
+
 
 .class1{
     display: flex;
@@ -123,7 +155,7 @@ div div> p{
 {
     color: #272727;
     font-family: Lato;
-    font-size: 30px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -187,4 +219,42 @@ span{
     background-repeat: no-repeat;
     border-radius: 0;
     margin: 50px 67px;
+}
+
+
+
+
+/* footer style */
+
+.class8-0{
+    
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+   
+   
+}
+
+
+.class8-1{
+    color: #E55473;
+}
+
+.class8{
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0 450px;
+}
+
+.class8-3{
+    padding: 0 540px;
+}
+
+
+.class8-11{
+    background-color: #111010;
+    width: 1400px;
+    height: 300px;
+    color: white;
+    padding-top: 40px;
 }
